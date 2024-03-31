@@ -1,0 +1,32 @@
+Sistem Perhitungan Nilai Akhir Mahasiswa
+
+Deskripsi:
+
+Sistem ini dirancang untuk menghitung nilai akhir mahasiswa berdasarkan beberapa komponen penilaian, seperti:
+
+Nilai kehadiran: Bobot 10%
+Ujian Tengah Semester (UTS): Bobot 30%
+Ujian Akhir Semester (UAS): Bobot 40%
+Tugas: Bobot 20%
+
+Fitur:
+
+Input data mahasiswa: NIM, nama, kehadiran, semester, nilai UTS, nilai UAS, dan nilai tugas.
+Perhitungan nilai akhir: Menghitung nilai akhir berdasarkan rumus:
+Nilai Akhir = (0.1 * kehadiran) + (0.2 * Tugas) + (0.3 * UTS) + (0.4 * UAS)
+Penentuan grade: Membandingkan nilai akhir dengan nilai minimum grade yang sesuai (misalnya, >= 82 Grade A).
+Output hasil: Menampilkan NIM, nama, nilai akhir, dan grade.
+
+Teknologi:
+
+Sistem ini dapat dibuat dengan menggunakan berbagai teknologi, seperti:
+
+Manfaat:
+Sistem ini dapat memberikan beberapa manfaat, seperti:
+
+Efisiensi: Mempercepat proses perhitungan nilai akhir dan menghemat waktu dosen.
+Akurasi: Meminimalkan kesalahan perhitungan nilai akhir.
+Transparansi: Memberikan informasi yang jelas kepada mahasiswa tentang nilai akhir mereka.
+
+Kesimpulan:
+Sistem perhitungan nilai akhir mahasiswa dapat membantu meningkatkan efisiensi, akurasi, dan transparansi dalam proses penilaian.
